@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pierre20230
+- 👋 Hi, I’m @Pierre
 
 <!---
 Pierre20230/Pierre20230 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
